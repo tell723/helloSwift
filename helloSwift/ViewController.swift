@@ -18,6 +18,10 @@ class ViewController: UIViewController {
     func log() {
         print("test")
     }
+    
+    func hoge() {
+        print("hoge")
+    }
 
 }
 
